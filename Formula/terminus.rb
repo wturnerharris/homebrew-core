@@ -1,8 +1,8 @@
 class Terminus < Formula
   desc "Standalone utility for performing operations on the Pantheon Platform"
   homepage "https://github.com/pantheon-systems/terminus"
-  url "https://github.com/pantheon-systems/terminus/archive/2.0.1.tar.gz"
-  sha256 "69d195f6cc5bfffa5d0bec52807765d75a274203e5d1de9f38cac02324529bfe"
+  url "https://github.com/pantheon-systems/terminus/archive/2.4.0.tar.gz"
+  sha256 "9e94ec981bb41eb33fb2b507556360e7b57bf55aaa1de970f8af16c5b092a131"
 
   depends_on "Composer"
 
